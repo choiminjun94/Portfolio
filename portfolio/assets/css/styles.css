@@ -339,6 +339,15 @@ img {
 .skills__Vue {
     width: 10%;
   }
+.skills__Node {
+    width: 10%;
+  }
+.skills__Redux{
+  width: 10%;
+}
+.skills__Empty{
+  width: 100%;
+}
 
 .skills__img {
   border-radius: .5rem;
